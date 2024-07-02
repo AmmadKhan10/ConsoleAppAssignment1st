@@ -1,0 +1,14 @@
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\obj\Debug\net8.0\ConsoleAppAssignment1st.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\obj\Debug\net8.0\ConsoleAppAssignment1st.AssemblyInfoInputs.cache
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\obj\Debug\net8.0\ConsoleAppAssignment1st.AssemblyInfo.cs
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\obj\Debug\net8.0\ConsoleAppAssignment1st.csproj.CoreCompileInputs.cache
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\bin\Debug\net8.0\ConsoleAppAssignment1st.exe
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\bin\Debug\net8.0\ConsoleAppAssignment1st.deps.json
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\bin\Debug\net8.0\ConsoleAppAssignment1st.runtimeconfig.json
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\bin\Debug\net8.0\ConsoleAppAssignment1st.dll
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\bin\Debug\net8.0\ConsoleAppAssignment1st.pdb
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\obj\Debug\net8.0\ConsoleAppAssignment1st.dll
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\obj\Debug\net8.0\refint\ConsoleAppAssignment1st.dll
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\obj\Debug\net8.0\ConsoleAppAssignment1st.pdb
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\obj\Debug\net8.0\ConsoleAppAssignment1st.genruntimeconfig.cache
+C:\Users\uzair\source\repos\ConsoleAppAssignment1st\obj\Debug\net8.0\ref\ConsoleAppAssignment1st.dll
